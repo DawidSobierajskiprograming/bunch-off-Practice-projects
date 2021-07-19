@@ -5,7 +5,7 @@ def Main():
 
 
     Game_iteration = 0
-    Game_number = random.randint(0,100)
+    Game_number = random.randint(0,10)
     print(Game_number)
     while True:
      
@@ -31,7 +31,7 @@ def Main():
 def Bigger_or_smaller(Game_number):
     anchor = None
     while anchor == Game_number or anchor == None:
-        anchor = random.randint(0,100)
+        anchor = random.randint(0,10)
     if Game_number > anchor:
         print("The game number is greater than " + str(anchor))
     if Game_number < anchor:
