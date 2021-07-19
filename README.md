@@ -6,7 +6,7 @@ https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/#1_Mad_Libs_G
 I am compleating the projects one by one i will update this as i complete the different projects
 The projects will have DONE, INPROGRESS and WAITING
 This is to describe its state if its finished, being worked on and waiting to get started
-Beginner:
+Projects:
 1. Mad Libs Generator                                   DONE
 2. Number Guessing                                      INPROGRESS
 3. Text-based Adventure Game                            WAITING
@@ -24,7 +24,6 @@ Beginner:
 15. Rock, Paper, Scissors                               WAITING
 16. Leap it!                                            WAITING
 17. Find out, Fibonacci!                                WAITING
-Intermediate:   
 18. Calculator                                          WAITING
 19. Countdown Clock and Timer                           WAITING
 20. Random Password Generator                           WAITING
@@ -38,7 +37,6 @@ Intermediate:
 28. Post-it Notes                                       WAITING
 29. Site Connectivity Checker                           WAITING
 30. Directory Tree Generator                            WAITING
-Advanced:
 31. Speed Typing Test                                   WAITING
 32. Content Aggregator                                  WAITING
 33. Bulk File Rename/ Image Resize Application          WAITING
