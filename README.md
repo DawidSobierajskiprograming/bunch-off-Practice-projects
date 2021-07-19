@@ -8,8 +8,8 @@ The projects will have DONE, INPROGRESS and WAITING
 This is to describe its state if its finished, being worked on and waiting to get started
 Projects:
 1. Mad Libs Generator                                   DONE
-2. Number Guessing                                      INPROGRESS
-3. Text-based Adventure Game                            WAITING
+2. Number Guessing                                      DONE
+3. Text-based Adventure Game                            INPROGRESS
 4. Dice Rolling Simulator                               WAITING
 5. Hangman                                              WAITING
 6. Contact Book                                         WAITING
