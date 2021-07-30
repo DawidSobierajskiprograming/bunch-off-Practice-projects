@@ -4,13 +4,13 @@ This is a group of practice projects to help strenghten my python knowladge
 all the projects are taken from this website:
 https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/#1_Mad_Libs_Generator
 I am compleating the projects one by one i will update this as i complete the different projects
-The projects will have DONE, INPROGRESS and WAITING
+The projects will have DONE, INPROGRESS and WAITING, CANCELED
 This is to describe its state if its finished, being worked on and waiting to get started
 Projects:
 1. Mad Libs Generator                                   DONE
 2. Number Guessing                                      DONE
-3. Text-based Adventure Game                            INPROGRESS
-4. Dice Rolling Simulator                               WAITING
+3. Text-based Adventure Game                            CANCELED
+4. Dice Rolling Simulator                               DONE
 5. Hangman                                              WAITING
 6. Contact Book                                         WAITING
 7. Email Slicer                                         WAITING
