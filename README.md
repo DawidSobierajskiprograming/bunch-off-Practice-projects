@@ -12,7 +12,7 @@ Projects:
 3. Text-based Adventure Game                            INPROGRESS
 4. Dice Rolling Simulator                               DONE
 5. Hangman                                              DONE
-6. Contact Book                                         INPROGRESS
+6. Contact Book                                         DONE
 7. Email Slicer                                         WAITING
 8. Binary search algorithm                              WAITING
 9. Desktop Notifier App                                 WAITING
