@@ -13,7 +13,7 @@ Projects:
 4. Dice Rolling Simulator                               DONE
 5. Hangman                                              DONE
 6. Contact Book                                         DONE
-7. Email Slicer                                         WAITING
+7. Email Slicer                                         DONE
 8. Binary search algorithm                              WAITING
 9. Desktop Notifier App                                 WAITING
 10. Python Story Generator                              WAITING
