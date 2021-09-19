@@ -4,24 +4,25 @@ import requests
 from plyer import notification
 import json
 
+c = 3
 FoxHoledata = None
 Foxholemaps = ["StonecradleHex", "AllodsBightHex", "TempestIslandHex", "GreatMarchHex", "MarbanHollow", "ViperPitHex", "ShackledChasmHex", "HeartlandsHex", "DeadLandsHex", "LinnMercyHex", "EndlessShoreHex", "GodcroftsHex", "FishermansRowHex", "WestgateHex", "ReachingTrailHex", "UmbralWildwoodHex", "OarbreakerHex", "CallahansPassageHex", "DrownedValeHex", "FarranacCoastHex", "MooringCountyHex", "WeatheredExpanseHex", "LochMorHex"]
-try:
 
-    FoxHoledata= "https://war-service-live.foxholeservices.com/api/worldconquest/warReport/{}"
+FoxHoledata= "https://war-service-live.foxholeservices.com/api/worldconquest/warReport/{}"
 
-except:
-    print ("Something went wrong with requesting the data")
 
 def totalcasulties():
     totalcasulties = 0
     for i in Foxholemaps:
         a = FoxHoledata.format(i)
-        Foxholeget = requests.get(a)
+        try:
+            Foxholeget = requests.get(a)
+        except:
+            print("Check your internet connection")
         Foxholejson = Foxholeget.json()
         totalcasulties = Foxholejson["colonialCasualties"] + Foxholejson["wardenCasualties"] + totalcasulties
     print (totalcasulties)
     return totalcasulties
 
-print(1)
+
 totalcasulties()
