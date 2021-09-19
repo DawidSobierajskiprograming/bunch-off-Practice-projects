@@ -14,8 +14,8 @@ Projects:
 5. Hangman                                              DONE
 6. Contact Book                                         DONE
 7. Email Slicer                                         DONE
-8. Binary search algorithm                              WAITING
-9. Desktop Notifier App                                 WAITING
+8. Binary search algorithm                              DONE
+9. Desktop Notifier App                                 INPROGRESS
 10. Python Story Generator                              WAITING
 11. YouTube video downloader                            WAITING
 12. Python Website Blocker                              WAITING
